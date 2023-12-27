@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"b2c17f6323d90db1","x":-2652,"y":-1066,"width":250,"height":60,"type":"text","text":"# AMD FX"},
+		{"id":"0d45abc4f9d6e76b","x":-3072,"y":-920,"width":420,"height":220,"type":"text","text":"Список микропроцессоров AMD FX\nhttps://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%BE%D1%80%D0%BE%D0%B2_AMD_FX"}
+	],
+	"edges":[
+		{"id":"34af6d3632ebd4df","fromNode":"b2c17f6323d90db1","fromSide":"bottom","toNode":"0d45abc4f9d6e76b","toSide":"top"}
+	]
+}

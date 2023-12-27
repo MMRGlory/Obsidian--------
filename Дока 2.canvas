@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"354a66d45f620fd0","x":973,"y":558,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a57084d5382e5904","type":"text","text":"GGSel(digiseller)","x":-260,"y":-303,"width":250,"height":60,"color":"1"},
+		{"id":"774f76567c68774d","type":"text","text":"Почта: spikestray228@gmail.com\nЛогин: MMRGlory\nПароль: 69FE71E7A1\nНикнейм: MMRGlory\nПолное имя : Nikolay\nПравила для продавцов:\nhttps://docs.google.com/document/d/1iCY9BLM6iMbXD06AS-byGCprSsdtw7Pxq2GZ90SqIME/edit#\ndigiseller:\nhttps://my.digiseller.com/inside/partners.asp?view=stats","x":-472,"y":-147,"width":392,"height":426,"color":"1"},
+		{"id":"ae0ba41b29db8d2a","type":"text","text":"Почта: pazan_444@ukr.net\nПароль : Tibogoss","x":-60,"y":176,"width":350,"height":64,"color":"6"},
+		{"id":"a3488a959ed89534","type":"text","text":"G2G","x":360,"y":-303,"width":250,"height":60,"color":"3"},
+		{"id":"56b2e02188a835cb","type":"text","text":"Eldorado(забанили)","x":780,"y":-303,"width":250,"height":60},
+		{"id":"794f5f123f707e7c","type":"text","text":"Login : MMRGlory\nEmail: \nnikolajaranov@gmail.com\nPassword: Tibogoss12345r\nSite: https://www.g2g.com/","x":393,"y":-147,"width":285,"height":194,"color":"3"},
+		{"id":"48658bd8730bda44","type":"text","text":"Email: nikolajaranov@gmail.com\nUsername: MMRGLory","x":768,"y":-147,"width":346,"height":194},
+		{"id":"321a9832df00c8b7","type":"text","text":"anylvl","x":40,"y":-303,"width":250,"height":60,"color":"2"},
+		{"id":"c6d843e5cfd7b7ce","type":"text","text":"Z2you","x":393,"y":66,"width":250,"height":50,"color":"4"},
+		{"id":"213f0692fbe2078d","type":"text","text":"Skype ","x":780,"y":66,"width":250,"height":60,"color":"1"},
+		{"id":"08fa582be88641d3","type":"text","text":"Email: spikestray228@gmail.com\nPassword: 4W_r+gc)_7@TMXJ","x":780,"y":183,"width":300,"height":155,"color":"1"},
+		{"id":"34e199cc9468ad28","type":"text","text":"marketplace, VK, Skype ","x":76,"y":-560,"width":250,"height":60,"color":"#00ffe1"},
+		{"id":"0ce0f4ce3e8d963b","type":"text","text":"zelenka (LolzMarket)","x":290,"y":374,"width":250,"height":60,"color":"3"},
+		{"id":"23d0e646bf81fcf7","type":"text","text":"Login: MMRGlory\nPassword: xYT5fvJ7\nMarket: https://lzt.market/?pget=1\nForum: https://zelenka.guru/","x":270,"y":500,"width":353,"height":140,"color":"3"},
+		{"id":"4f13cd0ff0ae9697","type":"text","text":"VK Old","x":20,"y":86,"width":250,"height":60,"color":"6"},
+		{"id":"94a5fe496cbbc2cd","type":"text","text":"Логин: DvoinoeMyaso\nID: 260966\nПочта: spikestray228@gmail.com\nПароль: Tibogoss12345r\nCсылка на вериф:\nhttps://anylvl.com/ru/profile\nSite: https://anylvl.com/ru","x":-47,"y":-147,"width":384,"height":226,"color":"2"},
+		{"id":"5e5e3581d66bbd42","type":"text","text":"Почта :\nspikestray228@gmail.com","x":-58,"y":374,"width":304,"height":60,"color":"6"},
+		{"id":"f4da4ff020ecdb07","type":"text","text":"megaindex (Анализ сайтов )","x":-58,"y":261,"width":250,"height":60,"color":"6"},
+		{"id":"32688b4242265e45","type":"text","text":"Email: spikestray228@gmail.com\nUsername: MMRGlory\nPassword: fw2V@vF-M3MWL7d\nRules seller:\nhttps://www.z2u.com/ru/sell/index.html","x":360,"y":160,"width":375,"height":161,"color":"4"},
+		{"id":"8830fd6fb875033b","type":"text","text":"GitHub \nhttps://github.com/signup?source=login\nEmail: spikestray228@gmail.com\nPassword: A]0x4nCS","x":-324,"y":539,"width":439,"height":181}
+	],
+	"edges":[
+		{"id":"89ddecc4e18bcf2f","fromNode":"a57084d5382e5904","fromSide":"bottom","toNode":"774f76567c68774d","toSide":"top","color":"1"},
+		{"id":"d2806275fb5a9493","fromNode":"321a9832df00c8b7","fromSide":"bottom","toNode":"94a5fe496cbbc2cd","toSide":"top","color":"2"},
+		{"id":"953abfe845e53460","fromNode":"4f13cd0ff0ae9697","fromSide":"bottom","toNode":"ae0ba41b29db8d2a","toSide":"top","color":"6"},
+		{"id":"470678484684fece","fromNode":"f4da4ff020ecdb07","fromSide":"bottom","toNode":"5e5e3581d66bbd42","toSide":"top","color":"6"},
+		{"id":"d6b77c8adbae7629","fromNode":"a3488a959ed89534","fromSide":"bottom","toNode":"794f5f123f707e7c","toSide":"top","color":"3"},
+		{"id":"2c454ed349465410","fromNode":"c6d843e5cfd7b7ce","fromSide":"bottom","toNode":"32688b4242265e45","toSide":"top","color":"4"},
+		{"id":"e32ee8ebe134615a","fromNode":"56b2e02188a835cb","fromSide":"bottom","toNode":"48658bd8730bda44","toSide":"top"},
+		{"id":"4020f33c90ed763c","fromNode":"213f0692fbe2078d","fromSide":"bottom","toNode":"08fa582be88641d3","toSide":"top","color":"1"},
+		{"id":"141c6fe1df50ddd8","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"321a9832df00c8b7","toSide":"top","color":"2"},
+		{"id":"7e42da39c4ef1c36","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"a3488a959ed89534","toSide":"top","color":"3"},
+		{"id":"bc3b1113a05435e9","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"a57084d5382e5904","toSide":"top","color":"1"},
+		{"id":"1015628c14b58c4a","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"c6d843e5cfd7b7ce","toSide":"right","color":"4"},
+		{"id":"fa469e36177d2e15","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"56b2e02188a835cb","toSide":"top"},
+		{"id":"36bad7b56da85995","fromNode":"0ce0f4ce3e8d963b","fromSide":"bottom","toNode":"23d0e646bf81fcf7","toSide":"top","color":"3"},
+		{"id":"b144e03fc27e1641","fromNode":"34e199cc9468ad28","fromSide":"bottom","toNode":"0ce0f4ce3e8d963b","toSide":"top","color":"3"}
+	]
+}
