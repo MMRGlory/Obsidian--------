@@ -85,9 +85,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6445d98c5e3199be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -153,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аккаунты дота.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Аккаунты дота.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аккаунты дота.md"
+                "file": "Python.md"
               }
             }
           },
@@ -226,14 +239,21 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "65f6ad721dca5475",
+  "active": "6445d98c5e3199be",
   "lastOpenFiles": [
+    "БАЗА ЗНАНИЙ/_resources/assets/Без названия/Pasted image 20231227212543.png",
+    "БАЗА ЗНАНИЙ/_resources/assets/Без названия/Pasted image 20231227212506.png",
+    "БАЗА ЗНАНИЙ/_resources/assets/Без названия",
+    "БАЗА ЗНАНИЙ/_resources/assets",
+    "БАЗА ЗНАНИЙ/_resources",
+    "БАЗА ЗНАНИЙ",
+    "Аккаунты дота.md",
+    "Python.md",
     "Дока 2.canvas",
     "Онлик  Подводка под пак.canvas",
     "Онлик СЭКСТИНГ (Подписи под пак).canvas",
     "Прокси.md",
     "Dota 2.md",
-    "Аккаунты дота.md",
     "аа.canvas",
     "Компьютерное железо.md",
     "Онлик.md",
@@ -258,10 +278,6 @@
     "_Зож/БАЗА ЗНАНИЙ/_resources/assets/Без названия/гайд  ПРОДУКТ КОРЗИНА2.pdf",
     "Скам Жени.canvas",
     "БАЗА ЗНАНИЙ/_resources/assets/Без названия/Pasted image 20231222220000.png",
-    "БАЗА ЗНАНИЙ/_resources/assets/Без названия",
-    "БАЗА ЗНАНИЙ/_resources/assets",
-    "БАЗА ЗНАНИЙ/_resources",
-    "БАЗА ЗНАНИЙ",
     "00000.md",
     "_Resours/Sila.md",
     "_Resours/Шаблоны/Шаблоны 1.md",
