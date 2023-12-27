@@ -77,14 +77,12 @@
             "id": "65f6ad721dca5475",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Дока 2.canvas",
-                "viewState": {
-                  "x": 527.4142935441444,
-                  "y": 326.30481562404407,
-                  "zoom": -0.625795753455048
-                }
+                "file": "Аккаунты дота.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -155,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дока 2.canvas",
+                "file": "Аккаунты дота.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дока 2.canvas",
+                "file": "Аккаунты дота.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дока 2.canvas"
+                "file": "Аккаунты дота.md"
               }
             }
           },
@@ -230,6 +228,7 @@
   },
   "active": "65f6ad721dca5475",
   "lastOpenFiles": [
+    "Дока 2.canvas",
     "Онлик  Подводка под пак.canvas",
     "Онлик СЭКСТИНГ (Подписи под пак).canvas",
     "Прокси.md",
@@ -237,7 +236,6 @@
     "Аккаунты дота.md",
     "аа.canvas",
     "Компьютерное железо.md",
-    "Дока 2.canvas",
     "Онлик.md",
     "Teplates/Daily Notes Template.md",
     "Аккаунты дота 2.md",
